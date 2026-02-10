@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "BURN BURN",
+  "base_artist": "ストレイライト",
+  "createdAt": "2026-02-10T08:17:39.272542Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Burn, Burn, Burn",
+      "artist": "Zach Bryan",
+      "has_synced": true,
+      "path": "select/01_Burn,_Burn,_Burn_Zach_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Burn, Burn",
+      "artist": "Lostprophets",
+      "has_synced": true,
+      "path": "select/02_Burn,_Burn_Lostprophets.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Burn Burn",
+      "artist": "Lostprophets",
+      "has_synced": true,
+      "path": "select/03_Burn_Burn_Lostprophets.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Burn Burn (No Truth remix - Robot Jox)",
+      "artist": "Lostprophets",
+      "has_synced": false,
+      "path": "select/04_Burn_Burn_(No_Truth_remix_-_Robot_Jox)_Lostprophets.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Burn Burn",
+      "artist": "Nico Vega",
+      "has_synced": true,
+      "path": "select/05_Burn_Burn_Nico_Vega.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Burn/Burn",
+      "artist": "Anthem Lights",
+      "has_synced": true,
+      "path": "select/06_Burn_Burn_Anthem_Lights.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Burn! Burn! Heartbeat",
+      "artist": "Kara",
+      "has_synced": false,
+      "path": "select/07_Burn!_Burn!_Heartbeat_Kara.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Burn Burn Burn!",
+      "artist": "Blackburner",
+      "has_synced": false,
+      "path": "select/08_Burn_Burn_Burn!_Blackburner.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Burn, Burn, Burn",
+      "artist": "Zach Bryan",
+      "has_synced": true,
+      "path": "select/09_Burn,_Burn,_Burn_Zach_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Burn, Burn, Burn (Live)",
+      "artist": "Zach Bryan",
+      "has_synced": true,
+      "path": "select/10_Burn,_Burn,_Burn_(Live)_Zach_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BURN BURN",
+      "artist": "ストレイライト",
+      "has_synced": true,
+      "path": "select/11_BURN_BURN_ストレイライト.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Burn Burn",
+      "artist": "Lostprophets",
+      "has_synced": true,
+      "path": "select/12_Burn_Burn_Lostprophets.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Burn Burn Burn",
+      "artist": "Burning Hearts",
+      "has_synced": false,
+      "path": "select/13_Burn_Burn_Burn_Burning_Hearts.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BURN BURN BURN",
+      "artist": "John Michael Howell",
+      "has_synced": true,
+      "path": "select/14_BURN_BURN_BURN_John_Michael_Howell.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Burn, Burn, Burn",
+      "artist": "Zach Bryan",
+      "has_synced": true,
+      "path": "select/15_Burn,_Burn,_Burn_Zach_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Burn! Burn! Burn!",
+      "artist": "Axxis",
+      "has_synced": true,
+      "path": "select/16_Burn!_Burn!_Burn!_Axxis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BURN BURN",
+      "artist": "ストレイライト",
+      "has_synced": false,
+      "path": "select/pl_01_BURN_BURN_ストレイライト.txt"
+    }
+  ]
+}
